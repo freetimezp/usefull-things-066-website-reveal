@@ -55,7 +55,7 @@ body {
 }
 
 .b-1 {
-    background: url(../images/1.jpg) 50% 50% no-repeat;
+    background: url(../images/1.jpg) 50% 20% no-repeat;
     background-size: cover;
 }
 .b-2 {
@@ -75,7 +75,7 @@ body {
     background-size: cover;
 }
 .b-6 {
-    background: url(../images/6.jpg) 50% 50% no-repeat;
+    background: url(../images/6.jpg) 50% 20% no-repeat;
     background-size: cover;
 }
 .b-7 {
@@ -92,7 +92,7 @@ body {
 }
 
 .title {
-    margin-top: 20rem;
+    margin-top: 18.5rem;
     text-align: center;
     font-weight: 100;
     font-style: italic;
